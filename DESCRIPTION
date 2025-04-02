@@ -1,5 +1,5 @@
 Package: Sandbox
-Title: What the Package Does (One Line, Title Case)
+Title: Playing Around With Git(Hub)
 Version: 0.0.0.9000
 Authors@R: 
     person("Omar", "Camanto", , "ocamanto@uwo.ca", role = c("aut", "cre"))
